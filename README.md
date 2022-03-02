@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a frontendsoftware engineer from Russia
+I am a Frontend software engineer from Russia
 - 🔭 Working on multiple frontend project using React 
 <br>
 ## Connect with me
